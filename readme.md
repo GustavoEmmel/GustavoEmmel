@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name] – a passionate software engineer, problem solver, and dedicated family man. 🚀  
+I'm Gustavo Reichelt Emmel – a passionate software engineer, problem solver, and dedicated family man. 🚀  
 As a skilled developer, I thrive on creating efficient, high-quality software solutions, with a strong focus on web development and backend systems.
 
 ![Headshot](headshot.png)
@@ -26,17 +26,16 @@ Here’s a snapshot of the technologies I work with daily:
 | TypeScript   | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) |
 | PHP          | ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) |
 | MySQL        | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
-| PostgreSQL   | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) |
+| PostgreSQL   | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg) |
 | AWS          | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) |
 | Docker       | ![Docker](https://img.icons8.com/color/48/000000/docker.png) |
 | Redis        | ![Redis](https://img.icons8.com/color/48/000000/redis.png) |
-| RabbitMQ     | ![RabbitMQ](https://img.icons8.com/color/48/000000/rabbitmq.png) |
+| RabbitMQ     | ![RabbitMQ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg) |
 | React        | ![React](https://img.icons8.com/color/48/000000/react-native.png) |
 
 ---
 
 ### 🌍 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)  
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-reichelt-emmel/)  
+- [Twitter](https://x.com/Gustavo_Emmel)
