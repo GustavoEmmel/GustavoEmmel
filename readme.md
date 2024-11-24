@@ -3,7 +3,10 @@
 I'm Gustavo Reichelt Emmel – a passionate software engineer, problem solver, and dedicated family man. 🚀  
 As a skilled developer, I thrive on creating efficient, high-quality software solutions, with a strong focus on web development and backend systems.
 
-![Headshot](headshot.png)
+<p align="center">
+  <img src="headshot.png" alt="Headshot" width="200" style="border-radius: 50%;" />
+</p>
+
 
 ---
 
